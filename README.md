@@ -29,7 +29,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React Native Navigation](#react-native-navigation)
   - [React Native Awesome Components](#react-native-awesome-components)
   - [React Native Libraries](#react-native-libraries)
-- [Contribution](#contribution)
 
 ### React
 
